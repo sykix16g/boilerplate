@@ -28,3 +28,9 @@ tags: ["はじめに"]
 
 * ゲームなりなんなりの成果でも書いていこうと思います
 * 日記帳代わりにもしていきたいです
+
+## リンク集
+
+* [Cinnamon](https://cinnamon.link/users/006c6m)
+* [ノマゲ参考表](https://sp12.iidx.app/sheets/7967-7988/clear)
+* [CPI](https://cpi.makecir.com/users/view/1083)
